@@ -1,7 +1,6 @@
 # BASIC-GATES ⚙️  
 **Simulation and Layout Implementation of Basic Logic Gates in 180nm CMOS Technology**
 
----
 
 ## 📋 Overview  
 Welcome to the **BASIC-GATES** repository!  
@@ -16,10 +15,6 @@ The gates include:
 
 This repo serves as a hands-on learning resource for students and engineers exploring **transistor-level digital design**, **layouts**, and **verifications**.
 
----
-
-
----
 
 ## 🛠️ Gates Included  
 
@@ -31,7 +26,6 @@ Each logic gate includes:
 - ✅ **Simulation results**  
 - ✅ **Layout vs Schematic (LVS) verification**  
 
----
 
 ## 💡 Technology  
 
@@ -39,7 +33,7 @@ Each logic gate includes:
 - Suitable for **digital design learning & prototyping**  
 - Demonstrates **layout vs schematic (LVS)** matching  
 
----
+
 
 ## 👩‍💻 How to Use  
 
@@ -48,7 +42,7 @@ Each logic gate includes:
 3. View **simulation outputs** to confirm logical behavior.  
 4. Check **LVS results** to verify schematic ↔ layout consistency.  
 
----
+
 
 ## 🎯 Goals  
 
@@ -56,7 +50,6 @@ Each logic gate includes:
 - Help students and engineers learn **process-oriented design & verification**.  
 - Act as a reference for **educational VLSI projects**.  
 
----
 
 ## 📬 Contributing & Feedback  
 
