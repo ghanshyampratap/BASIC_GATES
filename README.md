@@ -4,7 +4,7 @@
 
 ## 📋 Overview  
 Welcome to the **BASIC-GATES** repository!  
-This project contains the **design, simulation, and layout** files for essential logic gates implemented in **180nm CMOS process technology**.  
+This project contains the **design, simulation, and layout** files for essential logic gates implemented in **180nm CMOS process technology** using **Cadence Virtuoso**.  
 
 The gates include:  
 - AND Gate  
@@ -20,16 +20,17 @@ This repo serves as a hands-on learning resource for students and engineers expl
 
 Each logic gate includes:  
 
-- ✅ **Schematic capture**  
+- ✅ **Schematic capture (Cadence Virtuoso)**  
 - ✅ **Symbolic representation**  
-- ✅ **Layout design**  
-- ✅ **Simulation results**  
+- ✅ **Layout design (Virtuoso Layout Editor)**  
+- ✅ **Simulation results (ADE / Spectre)**  
 - ✅ **Layout vs Schematic (LVS) verification**  
 
 
 ## 💡 Technology  
 
 - Designed and verified in **180nm CMOS process technology**  
+- Implemented and simulated using **Cadence Virtuoso EDA Tool Suite**  
 - Suitable for **digital design learning & prototyping**  
 - Demonstrates **layout vs schematic (LVS)** matching  
 
@@ -37,10 +38,10 @@ Each logic gate includes:
 
 ## 👩‍💻 How to Use  
 
-1. Open **schematics** to study transistor-level designs.  
-2. Explore **layouts** to see physical implementations.  
-3. View **simulation outputs** to confirm logical behavior.  
-4. Check **LVS results** to verify schematic ↔ layout consistency.  
+1. Open **schematics (Virtuoso Schematic Editor)** to study transistor-level designs.  
+2. Explore **layouts (Virtuoso Layout Editor)** to see physical implementations.  
+3. Run **simulations (ADE / Spectre)** to confirm logical behavior.  
+4. Check **LVS results (Assura/Calibre)** to verify schematic ↔ layout consistency.  
 
 
 
@@ -60,4 +61,3 @@ Contributions are welcome! 🚀
 ---
 
 ### ⭐ If you find this project useful, don’t forget to star the repo!  
-
