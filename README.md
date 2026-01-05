@@ -1,8 +1,8 @@
-# BASIC-GATES ⚙️  
+# BASIC-GATES   
 **Simulation and Layout Implementation of Basic Logic Gates in 180nm CMOS Technology**
 
 
-## 📋 Overview  
+##  Overview  
 Welcome to the **BASIC-GATES** repository!  
 This project contains the **design, simulation, and layout** files for essential logic gates implemented in **180nm CMOS process technology** using **Cadence Virtuoso**.  
 
@@ -16,18 +16,18 @@ The gates include:
 This repo serves as a hands-on learning resource for students and engineers exploring **transistor-level digital design**, **layouts**, and **verifications**.
 
 
-## 🛠️ Gates Included  
+##  Gates Included  
 
 Each logic gate includes:  
 
-- ✅ **Schematic capture (Cadence Virtuoso)**  
-- ✅ **Symbolic representation**  
-- ✅ **Layout design (Virtuoso Layout Editor)**  
-- ✅ **Simulation results (ADE / Spectre)**  
-- ✅ **Layout vs Schematic (LVS) verification**  
+-  **Schematic capture (Cadence Virtuoso)**  
+-  **Symbolic representation**  
+-  **Layout design (Virtuoso Layout Editor)**  
+-  **Simulation results (ADE / Spectre)**  
+-  **Layout vs Schematic (LVS) verification**  
 
 
-## 💡 Technology  
+##  Technology  
 
 - Designed and verified in **180nm CMOS process technology**  
 - Implemented and simulated using **Cadence Virtuoso EDA Tool Suite**  
@@ -36,7 +36,7 @@ Each logic gate includes:
 
 
 
-## 👩‍💻 How to Use  
+##  How to Use  
 
 1. Open **schematics (Virtuoso Schematic Editor)** to study transistor-level designs.  
 2. Explore **layouts (Virtuoso Layout Editor)** to see physical implementations.  
@@ -45,19 +45,19 @@ Each logic gate includes:
 
 
 
-## 🎯 Goals  
+##  Goals  
 
 - Provide **practical examples** of digital VLSI gate design.  
 - Help students and engineers learn **process-oriented design & verification**.  
 - Act as a reference for **educational VLSI projects**.  
 
 
-## 📬 Contributing & Feedback  
+##  Contributing & Feedback  
 
-Contributions are welcome! 🚀  
+Contributions are welcome!  
 - Open **issues** for corrections or questions.  
 - Submit **pull requests** for improvements or new gate designs.  
 
 ---
 
-### ⭐ If you find this project useful, don’t forget to star the repo!  
+###  If you find this project useful, don’t forget to star the repo!  
